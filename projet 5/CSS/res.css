@@ -1,0 +1,39 @@
+.pump{
+    width: 240px;
+    border: 10px;
+    padding: 10px;
+    margin: 5px;
+
+}
+.lol{
+    width:300px;
+    border:50px;
+    padding:50px;
+    margin:50px;
+    background-color: #c9e6ff;
+    display: block
+}
+body {
+    background-color: lightblue;
+}
+.mom{
+    background:#f9feff;
+    display: inline-block;
+    width:300px;
+    padding:10px;
+    margin:5px;
+}
+.kol{
+    width:1000px;
+    margin-left: auto;
+    margin-right:auto; 
+    padding:1em;
+}
+.rout{
+    padding:1px;
+    width: 1000px;
+    border: 3px;
+    margin: 1px;
+    display: inline-block;
+    text-align: center
+}
